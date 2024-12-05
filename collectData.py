@@ -9,7 +9,6 @@ keywords = ["chatGPT", "Generative AI", "GPT-4", "Artificial Intelligence"]
 geo=""
 timeframe="today 5-y"
 
-
 #build the payload
 pytrends.build_payload(keywords,geo=geo,timeframe=timeframe)
 
