@@ -49,5 +49,9 @@ This project explores the global adoption and interest in AI tools, such as **Ch
 ## 💡 How to Use
 1. Clone the repository.
 2. Install required dependencies using:
+
    ```bash
    pip install -r requirements.txt
+3.To run the dashboard:
+   ```bash
+   streamlit run chatgpt_trends_dashboard_script.py
