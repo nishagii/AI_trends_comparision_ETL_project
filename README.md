@@ -52,6 +52,7 @@ This project explores the global adoption and interest in AI tools, such as **Ch
 
    ```bash
    pip install -r requirements.txt
-3.To run the dashboard:
+3. To run the dashboard:
+
    ```bash
    streamlit run chatgpt_trends_dashboard_script.py
