@@ -1,3 +1,21 @@
+"""
+This script creates a Streamlit dashboard to visualize the popularity of ChatGPT over time using a line chart.
+
+Modules:
+    - streamlit: Used to create the web application.
+    - pandas: Used to handle and manipulate the data.
+    - plotly.express: Used to create the line chart.
+
+Data:
+    - A DataFrame with a date range from January 2024 to October 2024 and corresponding popularity values for ChatGPT.
+
+Functions:
+    - None
+
+Usage:
+    Run this script to start a Streamlit web application that displays a line chart of ChatGPT's popularity over time.
+"""
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px

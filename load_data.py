@@ -1,3 +1,5 @@
+# Load data from CSV to PostgreSQL
+
 import pandas as pd
 from sqlalchemy import create_engine
 
