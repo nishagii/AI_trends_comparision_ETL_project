@@ -1,7 +1,7 @@
 # Global Trends Analysis and Forecasting: AI Tools Adoption Using Google Trends Data
 
 ## 📊 Overview
-This project explores the global adoption and interest in AI tools, such as **ChatGPT**, using Google Trends data. By analyzing search trends across regions and industries over the past five years, the project identifies patterns, highlights regional differences, and forecasts future trends in AI adoption. All the note book codes can be view at Untitled,ipynb file.
+This project explores the global adoption and interest in AI tools, such as **ChatGPT**, using Google Trends data. By analyzing search trends across regions and industries over the past five years, the project identifies patterns, highlights regional differences, and forecasts future trends in AI adoption. All the note book codes can be view at `Untitled.ipynb` file.
 
 ---
 
